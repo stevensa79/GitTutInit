@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "N:\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {}
+    "n:\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {}
   },
   "projects": {
-    "N:\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {
+    "n:\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "N:\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
+        "projectUniqueName": "n:\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
         "projectName": "Example001_HelloConsole",
-        "projectPath": "N:\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
+        "projectPath": "n:\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
         "packagesPath": "C:\\Users\\STEVENSA\\.nuget\\packages\\",
-        "outputPath": "N:\\Examples\\Example001_HelloConsole\\obj\\",
+        "outputPath": "n:\\Examples\\Example001_HelloConsole\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
